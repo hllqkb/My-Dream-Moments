@@ -1,3 +1,7 @@
+# 这是重构前的稳定老版本
+
+[KouriChat](https://github.com/KouriChat/KouriChat)
+
 ![ATRI.jpg](img%2FATRI.jpg)
 - 夸克网盘：https://pan.quark.cn/s/f37d765e1404 提取码：zXpP 推荐转存，项目更新直接下载最新的代码zip。我也能有收益，感谢您的支持！
 ---
